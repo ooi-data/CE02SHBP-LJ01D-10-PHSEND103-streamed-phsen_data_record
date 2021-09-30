@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHBP-LJ01D-10-PHSEND103-streamed-phsen_data_record
 data_stream: CE02SHBP-LJ01D-10-PHSEND103-streamed-phsen_data_record
-end_date: '2021-09-17T22:00:00.307Z'
-last_updated: '2021-09-18T01:36:27.054463'
+end_date: '2021-09-29T18:00:00.584Z'
+last_updated: '2021-09-30T11:56:34.565678Z'
 start_date: '2014-09-25T20:00:00.070Z'
-status: success
+status: pending
